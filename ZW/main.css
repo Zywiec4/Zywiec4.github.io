@@ -1,0 +1,68 @@
+body {
+    background-color: #d31010;
+    text-align: center;
+}
+h1{
+    color: #d31010;
+    font-size: 30px;
+    font-style: inherit;
+}
+
+nav {
+    border-bottom: 4px solid white;
+    border-top: 4px solid white;
+    padding: 8px;
+    filter: sepia(100%);
+    transform: rotate(720deg)scale(1);
+
+
+
+}
+nav a{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    font-style: inherit;
+    padding: 10px;
+    border: 2px solid white;
+    border-radius: 2px;
+    box-shadow: 0 0 2px black;
+    transition: 0.5s;
+    
+}
+
+    nav a:hover {
+    background-color: white ;
+}
+
+
+
+   .logo {
+
+
+    }
+    .logo:hover{
+    filter: sepia(100%);
+    transform: rotate(720deg)scale(1);
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
